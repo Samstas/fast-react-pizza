@@ -28,7 +28,7 @@ Follow these steps to set up, build, and run the project locally:
 
 2. **Navigate to the project directory:**
     ```sh
-    cd 16-fast-react-pizza
+    cd fast-react-pizza
     ```
 
 3. **Install dependencies:**
